@@ -21,7 +21,8 @@ from copy import deepcopy
 
 def generate_anchors(conf, imdb, cache_folder):
     """
-    Generates the anchors according to the configuration and
+    Generates the anchors according to the configur
+    ation and
     (optionally) based on the imdb properties.
     """
 
